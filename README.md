@@ -5,13 +5,16 @@ This plugin is in use with Schedugram, an Instagram scheduling solution. Our cus
 
 # Demo
 
-Link to web demo.
+![Emojiboard in action](https://hughstephens.github.io/emojiboard/img/emojiboard_demo.png "Emojiboard in action")
+
+
+[Link to web demo.](https://hughstephens.github.io/emojiboard/)
 
 # Installation
 ## Dependencies
 You need to have jQuery >1.10.2.
 
-Emojiboard uses a modified version of [jMinEmoji by @rodrigopolo(https://github.com/rodrigopolo/minEmoji) so all credit to jMinEmoji for those parts!
+Emojiboard uses a modified version of [jMinEmoji by @rodrigopolo](https://github.com/rodrigopolo/minEmoji) so all credit to jMinEmoji for those parts!
 
 ## Usage
 In your page header, add the emojiboard CSS (use the version in this repo!):

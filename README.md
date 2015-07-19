@@ -48,7 +48,7 @@ _Pull requests welcome!_
 * only use 2x when required (currently it loads by default #lazy)
 * ?mobile compatibility - needs to be checked and/or emojiboard only shown when not on iOS/Android...
 * Re-order emojis so the layout/sequence is the same as iOS
-* Update to add new iOS emoji
+* Update to add new iOS emoji and standardise onto the latest jMinEmoji2
 
 
 # License

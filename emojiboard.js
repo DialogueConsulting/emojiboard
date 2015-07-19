@@ -23,7 +23,7 @@
     };
 })(jQuery);
 
-/* EmojiBoard v0.1 - https://github.com/hughstephens/emojiboard/LICENSE - MIT license */
+/* EmojiBoard v1.0.0 - https://github.com/hughstephens/emojiboard/blob/master/LICENSE */
 function emojiboard(el) {
 
     this.rendered = false;

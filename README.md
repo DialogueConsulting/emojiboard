@@ -1,14 +1,14 @@
 # emojiboard
-Adds an emoji keyboard to any text box. Requires jQuery and jMinEmoji.
+Adds an emoji keyboard to any &lt;textarea&gt;. Requires jQuery.
 
-This plugin is in use with Schedugram, an Instagram scheduling solution. Our customers post tons of Emoji and I couldn't find anything that would do this, so we built one.
+This plugin is in use with [Schedugram](http://schedugr.am), an Instagram scheduling solution. Our customers post tons of Emoji and I couldn't find anything that would do this, so we built one.
 
 # Demo
 
 ![Emojiboard in action](https://hughstephens.github.io/emojiboard/img/emojiboard_demo.png "Emojiboard in action")
 
 
-[Link to web demo.](https://hughstephens.github.io/emojiboard/)
+[Browse a demo on your computing machine.](https://hughstephens.github.io/emojiboard/)
 
 # Installation
 ## Dependencies
@@ -22,7 +22,7 @@ In your page header, add the emojiboard CSS (use the version in this repo!):
 <link href="css/emojiboard.css" rel="stylesheet">
 ```
 
-And before closing &lte;body&gte; add the two JS files – one is the list of Emoji and the other is the function itself (including jMinEmoji):
+And before closing &lt;body&gt; add the two JS files – one is the list of Emoji and the other is the function itself (including jMinEmoji):
 ```
 <!-- don't forget jQuery -->
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
@@ -35,7 +35,7 @@ And before closing &lte;body&gte; add the two JS files – one is the list of Em
 
 Make sure you have put the images into an img/ folder too...
 
-Add the class "emojiboard" (or whatever you want) to any &lte;textarea&gte;'s you want to append an emojiboard to:
+Add the class "emojiboard" (or whatever you want) to any &lt;textarea&gt;'s you want to append an emojiboard to:
 `<textarea class="emojiboard"></textarea>`
 
 And then initialise emojiboard on those areas:
